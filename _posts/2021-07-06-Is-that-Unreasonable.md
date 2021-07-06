@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is that Unreasonable?
-subtitle: Woes of a Disgruntled Student.
+subtitle: The Woes of a Disgruntled Student.
 ---
 
 ### Is that Unreasonable?
