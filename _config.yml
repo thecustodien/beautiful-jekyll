@@ -54,7 +54,7 @@ footer-link-col: "#404040"
 
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: "G-Y5PV0LFC5E"
+google_analytics: "G-Y5PV0LFC5E"
 
 # --- Misc --- #
 
