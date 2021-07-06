@@ -8,6 +8,9 @@ social-network-links:
   email: "thecustodien@protonmail.com"
   instagram: thecustodien
 
+navbar-links:
+  About: "about"
+  Template: "template"
 
 # --- General options --- #
 
