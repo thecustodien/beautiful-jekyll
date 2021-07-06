@@ -5,7 +5,7 @@ subtitle: Woes of a Disgruntled Student.
 ---
 
 ### Is that Unreasonable?
-To: The Dean, The Management
+To: The Dean, The Management  
 cc: The Class Advisor, Chair of the Department  
 
 Dear Sir,
@@ -22,6 +22,6 @@ Exams that are easy to cheat on, and really tough to score otherwise, on a platf
 
 What are we learning for? Marks and grades, is knowledge and practice, or just for the sake of it? As a well intentioned student that just wants a useful engineering degree, I expect the University to do something about the situation. Find ways to combat the situation, come up with ways to solve student grievances. With the fourth online semester about to start, I hope the management thinks things through and comes up with solutions that will work for all the parties involved. Is that unreasonable? Unfortunately, probably Yes.
 
-Sincerely,
-John Doe,
+Sincerely,  
+John Doe,  
 A student looking for some quality education.
