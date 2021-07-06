@@ -7,4 +7,4 @@ subtitle: You will be heard.
   <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 
-### Write to us at [thecustodien@protonmail.com](thecustodien@protonmail.com)
+### Write to us at thecustodien@protonmail.com
