@@ -4,7 +4,6 @@ title: Is that Unreasonable?
 subtitle: The Woes of a Disgruntled Student.
 ---
 
-### Is that Unreasonable?
 To: The Dean, The Management  
 cc: The Class Advisor, Chair of the Department  
 
